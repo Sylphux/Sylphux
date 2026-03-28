@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on some fun JS projects, like Spewk, an Tamagochi inspired ASCII game.
-- 🌱 I’m currently learning Python and JS mostly.
-- 👯 I’m looking to collaborate on any Python, JS, C projects that suits my level
+- 🔭 I’m currently working on some fun JS projects, like Spewks: a Tamagochi inspired ASCII game.
+- 🌱 I’m currently learning Python, Ruby and JS mostly.
+- 👯 I’m looking to collaborate on any interesting project!
 - 📫 How to reach me: Email adress pinned on my profile.
 - ⚡ Fun fact: I choose to not code with AI, so I can become really self dependent on the long term. And it's already paying.
 
