@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, Ruby and JS mostly.
 - 👯 I’m looking to collaborate on any interesting project!
 - 📫 How to reach me: Email adress pinned on my profile.
-- ⚡ Fun fact: I choose to not code with AI, so I can become really self dependent on the long term. And it's already paying.
+- ⚡ Fun fact: I choose to not code with AI, so I can become really self dependent on the long term. And it's already paying back.
 
 <!--
 **Sylphux/Sylphux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
